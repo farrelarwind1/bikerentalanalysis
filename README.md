@@ -6,8 +6,8 @@
 
 # Structure
 dashboard-streamlit/
-├── README.md                     
-├── dashboard.py                  # Main file streamlit
-├── day.csv                       # Dataset 
-├── project_data_analysis.ipynb   # Jupyter Notebook
-└── requirements.txt              # Dependencies              
+*README.md*
+*dashboard.py*                  # Main file streamlit
+*day.csv*                       # Dataset 
+*project_data_analysis.ipynb*   # Jupyter Notebook
+*requirements.txt*              # Dependencies              
