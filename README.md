@@ -3,10 +3,3 @@
 2. **Create Virtual Environment**
 3. **Install Dependencies** pip install streamlit
 4. **Run streamlit** streamlit run dashboard.py
-
-# Structure
-*README.md*
-*dashboard.py*                  # Main file streamlit
-*day.csv*                       # Dataset 
-*project_data_analysis.ipynb*   # Jupyter Notebook
-*requirements.txt*              # Dependencies              
