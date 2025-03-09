@@ -5,7 +5,6 @@
 4. **Run streamlit** streamlit run dashboard.py
 
 # Structure
-dashboard-streamlit/
 *README.md*
 *dashboard.py*                  # Main file streamlit
 *day.csv*                       # Dataset 
