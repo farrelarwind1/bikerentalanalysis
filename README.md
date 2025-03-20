@@ -1,3 +1,5 @@
+# Steps to run streamlit dashboard - Bike Rental Analysis
+
 ## Setup Environment (Terminal)
 ```
 python -m venv venv
